@@ -1,6 +1,8 @@
 # Hello, I'm Jamie Clements 👋
 
-I am a passionate Software Developer with a keen interest in creating efficient and innovative solutions. My primary focus is on full-stack development, and I enjoy working with modern technologies and frameworks. Here you will find some of the projects I've been working on. Feel free to explore, contribute, or get in touch with me.
+Enrolled in the Computer Science program at The University of Stirling, my expertise encompasses a comprehensive array of programming methodologies, frameworks, and paradigms, further enriched by spending a semester at San Diego State University.
+
+I am enthusiastic about collaborating with esteemed professionals and organisations that venerate perpetual growth and pioneering innovation. Together, I believe we can harness shared expertise to drive meaningful and transformative impact.
 
 ## 📊 GitHub Stats
 
@@ -11,15 +13,24 @@ I am a passionate Software Developer with a keen interest in creating efficient 
 
 ## 🛠️ Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+### Frontend Development
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+
+### Backend Development
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+
+### Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
+
+### Artificial Intelligence
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)
+![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)
 
 ## 🌟 Projects & Highlights
 
