@@ -4,6 +4,7 @@ Enrolled in the Computer Science program at The University of Stirling, my exper
 
 I am enthusiastic about collaborating with esteemed professionals and organisations that venerate perpetual growth and pioneering innovation. Together, I believe we can harness shared expertise to drive meaningful and transformative impact.
 
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -42,8 +43,11 @@ I am enthusiastic about collaborating with esteemed professionals and organisati
 
 <a href="https://linkedin.com/in/yourprofile" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+
+
 </a>
 <a href="https://twitter.com/yourusername" target="_blank">
+-->
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
 <a href="mailto:jamie.clements@example.com" target="_blank">
