@@ -1,16 +1,12 @@
 # Hello, I'm [Your Name] 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=jamie-clements&color=blue)
-
 I am a [Your Profession/Role], passionate about [Your Interests]. I love to [a couple of things you love doing related to coding or your profession]. Here you will find some of the projects I've been working on. Feel free to explore, contribute, or get in touch with me.
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jamie-clements&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamie-clements&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jamie-clements&show_icons=true&theme=radical)
 
 ## 🛠️ Technologies & Tools
 
