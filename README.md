@@ -1,6 +1,6 @@
 # Hello, I'm [Your Name] 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=jamie-clements&color=blue)
 
 I am a [Your Profession/Role], passionate about [Your Interests]. I love to [a couple of things you love doing related to coding or your profession]. Here you will find some of the projects I've been working on. Feel free to explore, contribute, or get in touch with me.
 
