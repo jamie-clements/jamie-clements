@@ -1,8 +1,6 @@
 # Hello, I'm Jamie Clements 👋
 
-Enrolled in the Computer Science program at The University of Stirling, my expertise encompasses a comprehensive array of programming methodologies, frameworks, and paradigms, further enriched by spending a semester at San Diego State University.
-
-I am enthusiastic about collaborating with esteemed professionals and organisations that venerate perpetual growth and pioneering innovation. Together, I believe we can harness shared expertise to drive meaningful and transformative impact.
+I am enthusiastic and passionate about collaborating with esteemed professionals and organisations that venerate perpetual growth and pioneering innovation. Together, I believe we can harness shared expertise to drive meaningful and transformative impact.
 
 <!--
 ## 📊 GitHub Stats
