@@ -1,6 +1,6 @@
 # Hello, I'm Jamie Clements 👋
 
-I am enthusiastic and passionate about collaborating with individuals and organisations that venerate perpetual growth and pioneering innovation. Together, I believe we can harness shared expertise to drive meaningful and transformative impact. 
+I aim to create cool things that impact people's lives for the better.
 
 <!--
 ## 📊 GitHub Stats
