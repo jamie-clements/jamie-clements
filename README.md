@@ -1,6 +1,6 @@
 # Hello, I'm Jamie Clements 👋
 
-I aim to create cool things that impact people's lives for the better.
+I aim to create cool things that impact people's lives for the better. DM me to collab or network!
 
 <!--
 ## 📊 GitHub Stats
