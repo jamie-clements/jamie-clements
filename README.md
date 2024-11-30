@@ -4,6 +4,7 @@
 
 ```text
 software engineer • problem solver • continuous learner
+
 ────────────────────────────────────────────────────
 currently: working on Multimodal AI for Surgical Video Analysis
 next: where inspiration takes me!
