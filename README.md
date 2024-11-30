@@ -1,32 +1,33 @@
 # Jamie Clements
 
 <div align="center">
-  
-![Snake Game](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
-[//]: # (This snake animation eats your actual GitHub contributions!)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&duration=3000&pause=1000&color=38F77F&center=true&vCenter=true&random=false&width=600&lines=ML+Trading+Analyst;Full+Stack+Developer;System+Architect;Always+Learning)](https://github.com/jamie-clements)
 
-</div>
+[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=jamie-clements&theme=github-dark&hide_border=true&point=38F77F&color=38F77F&line=38F77F)](https://github.com/jamie-clements)
 
-```js
-// Life Status
-const life = {
-  code: { 
-    "learning": true,
-    "building": true,
-    "sleeping": false 
-  },
-  
-  environment: process.env.EARTH,
-  current_coordinates: [51.5074, -0.1278], // London
-  status: 200, // OK
-  
-  error_message: null,
-  coffee_needed: true,
-  
-  // Your next big project loading...
-  loading: true
-};
+```python
+class TechUniverse:
+    def __init__(self):
+        self.name = "Jamie Clements"
+        self.focus = {
+            "ML & Trading": ["ml-trading-dashboard", "API-Stock-Exchange-Dashboard"],
+            "Systems": ["Distributed-Mutual-Exclusion-System", "Thread-communication"],
+            "Networks": ["UDP-Socket-Client-Server", "TCP-Socket-Client-Server"],
+            "Tools": ["Desktop-Cleaner", "surgical_analyser"]
+        }
+        
+        self.languages = {
+            "primary": ["Python", "Java", "C++"],
+            "secondary": ["HTML", "CSS"]
+        }
+        
+    def current_orbit(self):
+        return "ML Trading Analysis & Distributed Systems"
+
+# Status: Always coding 🚀
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=38F77F&center=true&vCenter=true&random=false&width=600&lines=Building+Cool+Things;Breaking+Stuff;Fixing+Stuff;Learning+New+Things)](https://github.com/yourusername)
+![Tech Stack](https://skillicons.dev/icons?i=python,java,cpp,html,css,mysql,docker,aws&theme=dark)
+
+</div>
