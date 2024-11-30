@@ -1,91 +1,32 @@
+# Jamie Clements
 
-# Welcome to Jamie's Interactive Portfolio! 🎮
+<div align="center">
+  
+![Snake Game](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
-### 🕹️ Press Start to Play!
+[//]: # (This snake animation eats your actual GitHub contributions!)
 
-<details>
-<summary>🚀 Start Game</summary>
+</div>
 
-## Welcome, Player! Choose your path to learn about Jamie:
+```js
+// Life Status
+const life = {
+  code: { 
+    "learning": true,
+    "building": true,
+    "sleeping": false 
+  },
+  
+  environment: process.env.EARTH,
+  current_coordinates: [51.5074, -0.1278], // London
+  status: 200, // OK
+  
+  error_message: null,
+  coffee_needed: true,
+  
+  // Your next big project loading...
+  loading: true
+};
+```
 
-<details>
-<summary>💼 Professional Background</summary>
-
-### You've entered Jamie's Professional Hub!
-Choose what you want to know:
-
-<details>
-<summary>🔧 Technical Skills</summary>
-
-* **Languages:** [Your top languages]
-* **Frameworks:** [Your frameworks]
-* **Tools:** [Your tools]
-
-[Continue exploring...](#welcome-player-choose-your-path-to-learn-about-jamie)
-</details>
-
-<details>
-<summary>🏢 Work Experience</summary>
-
-* **Current:** [Your current role]
-* **Previous:** [Your previous experience]
-* **Notable Projects:** [Key projects]
-
-[Continue exploring...](#welcome-player-choose-your-path-to-learn-about-jamie)
-</details>
-</details>
-
-<details>
-<summary>🚀 Current Projects</summary>
-
-### You've discovered Jamie's Project Lab!
-
-<details>
-<summary>🌟 Featured Project 1</summary>
-
-* **Project Name:** [Name]
-* **Tech Stack:** [Stack]
-* **Description:** [Brief description]
-
-[Continue exploring...](#welcome-player-choose-your-path-to-learn-about-jamie)
-</details>
-
-<details>
-<summary>💫 Featured Project 2</summary>
-
-* **Project Name:** [Name]
-* **Tech Stack:** [Stack]
-* **Description:** [Brief description]
-
-[Continue exploring...](#welcome-player-choose-your-path-to-learn-about-jamie)
-</details>
-</details>
-
-<details>
-<summary>🎯 Quick Facts</summary>
-
-### Achievement Unlocked: Quick Facts About Jamie!
-
-* 🌱 Currently learning: [Technology]
-* 💡 Interested in: [Interests]
-* 🎮 Favorite dev tool: [Tool]
-
-[Continue exploring...](#welcome-player-choose-your-path-to-learn-about-jamie)
-</details>
-
-<details>
-<summary>📫 Contact Info</summary>
-
-### Congratulations! You've reached the contact zone!
-
-* 📧 Email: hello@yourdomain.com
-* 🔗 LinkedIn: [Your LinkedIn]
-* 🌐 Portfolio: [Your website]
-
-[Start Over](#welcome-player-choose-your-path-to-learn-about-jamie)
-</details>
-
-</details>
-
----
-*This interactive README was crafted with ❤️ by Jamie Clements*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=38F77F&center=true&vCenter=true&random=false&width=600&lines=Building+Cool+Things;Breaking+Stuff;Fixing+Stuff;Learning+New+Things)](https://github.com/yourusername)
