@@ -1,13 +1,17 @@
-# jamie clements
+# hi i'm jamie clements 👋
 
 ### building things that matter.
 
 ```text
 software engineer • problem solver • continuous learner
 ────────────────────────────────────────────────────
-current: working on Multimodal AI for Surgical Analysis Review
+currently: working on Multimodal AI for Surgical Video Analysis
 learning: Python, Pytorch, MLLMs 
-next: where inspiration takes me
+next: where inspiration takes me!
+────────────────────────────────────────────────────
+
+reach out: jamieclements72243@gmail.com
+
 ```
 
 [linkedin](https://www.linkedin.com/in/jamierclements/) • [portfolio](https://jamie-clements.github.io/Portfolio-Website/)
