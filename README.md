@@ -61,7 +61,7 @@ mindmap
     <td align="center">
       <a href="#"><img src="https://img.shields.io/badge/-Surgical_AI-FF4B4B?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
       <br />
-      <sub>Multi-Modal AI for Medical Imaging</sub>
+      <sub>Multi-Modal AI for Medical Imaging (On-going BSc Dissertation)</sub>
     </td>
     <td align="center">
       <a href="#"><img src="https://img.shields.io/badge/-Trading_ML-4CAF50?style=for-the-badge&logo=python&logoColor=white" /></a>
