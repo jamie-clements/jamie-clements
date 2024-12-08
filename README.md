@@ -1,19 +1,28 @@
-# hi i'm jamie! 👋
+# hi, i'm jamie! 👋
 
-### building things that matter.
+`software engineer` • `problem solver` • `continuous learner`
 
-```text
-software engineer • problem solver • continuous learner
+> building things that matter.
 
-────────────────────────────────────────────────────
-currently: working on Multimodal AI for Surgical Video Analysis
-next: where inspiration takes me!
-────────────────────────────────────────────────────
+<br>
 
-Always open to networking and opportunities!
+### tech stack
+```python
+languages = ['Python', 'C/C++', 'Java', 'JavaScript', 'OCaml', 'Haskell', 
+            'SQL', 'MATLAB', 'Prolog', 'HTML', 'CSS']
+
+frameworks = ['Unity', 'Git', 'Linux', 'Docker', 'Kubernetes', 'React', 
+             'Django', 'Flask', 'Spring Boot', 'PyTorch', 'Node.js', 
+             'NumPy', 'Pandas']
+
+certifications = ['Microsoft Certified: Azure AI Fundamentals (AI-900)']
 ```
 
-[linkedin](https://www.linkedin.com/in/jamierclements/) • [portfolio](https://jamie-clements.github.io/Portfolio-Website/)
+### connect
+[linkedin](https://www.linkedin.com/in/jamierclements/) • 
+[portfolio](https://jamie-clements.github.io/Portfolio-Website/) • 
+[email](mailto:jamieclements72243@gmail.com)
 
----
-reach out: jamieclements72243@gmail.com
+<br>
+
+_always open to networking and opportunities!_**
