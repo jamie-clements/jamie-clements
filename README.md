@@ -50,7 +50,7 @@ mindmap
 ## 🏆 Recent Achievements
 
 - 🥇 JPMorgan Code For Good Hackathon Champion (2024)
-- 💼 Technology Infrastructure Analytics at Citigroup
+- 💼 Technology Infrastructure Analyst at Citigroup
 - 📊 Developed ML-Powered Trading Analysis Platform
 - 🤖 Built Multi-Modal AI System for Surgical Video Analysis
 
