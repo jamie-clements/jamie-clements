@@ -27,4 +27,4 @@ certifications = ['Microsoft Certified: Azure AI Fundamentals (AI-900)']
 
 <br>
 
-_always open to networking and opportunities!_**
+_always open to networking and opportunities!_
