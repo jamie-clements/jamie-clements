@@ -2,6 +2,8 @@
 
 `software engineer` • `problem solver` • `continuous learner`
 
+<br>
+
 > building things that matter.
 
 <br>
@@ -11,7 +13,7 @@
 languages = ['Python', 'C/C++', 'Java', 'JavaScript', 'OCaml', 'Haskell', 
             'SQL', 'MATLAB', 'Prolog', 'HTML', 'CSS']
 
-frameworks = ['Unity', 'Git', 'Linux', 'Docker', 'Kubernetes', 'React', 
+frameworks = ['Git', 'Linux', 'Docker', 'Kubernetes', 'React', 
              'Django', 'Flask', 'Spring Boot', 'PyTorch', 'Node.js', 
              'NumPy', 'Pandas']
 
