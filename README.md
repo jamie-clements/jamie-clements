@@ -30,7 +30,7 @@ mindmap
     AI/ML
       PyTorch
       NumPy/Pandas
-      Gemini API
+      Gemini, OpenAI, Anthropic API
       Azure AI
     Backend
       Django
