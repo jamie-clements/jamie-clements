@@ -52,7 +52,7 @@ mindmap
 - 🥇 JPMorgan Code For Good Hackathon Champion (2024)
 - 💼 Technology Infrastructure Analyst at Citigroup
 - 📊 Developed ML-Powered Trading Analysis Platform
-- 🤖 Built Multi-Modal AI System for Surgical Video Analysis
+- 🤖 Building a Multi-Modal AI System for Surgical Video Analysis
 
 ## 📈 Featured Projects
 
