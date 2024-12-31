@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jamie Clements
+# 👋 Hi, I'm Jamie 
 
 <!--  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio/) -->
