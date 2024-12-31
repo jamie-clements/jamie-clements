@@ -54,6 +54,7 @@ mindmap
 - 📊 Developed ML-Powered Trading Analysis Platform
 - 🤖 Building a Multi-Modal AI System for Surgical Video Analysis
 
+<!-- 
 ## 📈 Featured Projects
 
 <table>
@@ -75,6 +76,7 @@ mindmap
     </td>
   </tr>
 </table>
+-->
 
 ## 🤝 Let's Connect!
 
