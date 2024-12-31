@@ -7,7 +7,7 @@
 
 ## 🤖 About Me
 
-Final year Computer Science student at the University of Stirling with a passion for AI/ML and full-stack development. Recently returned from studying at San Diego State University, where I deepened my expertise in AI and distributed systems. Currently working on multi-modal AI applications for medical imaging while exploring the frontiers of prompt engineering and LLM applications.
+Computer Science student at the University of Stirling with a passion for AI/ML and full-stack development. Recently returned from studying at San Diego State University, where I deepened my expertise in AI and distributed systems. Currently working on multi-modal AI applications for medical imaging while exploring the frontiers of prompt engineering and LLM applications.
 
 ## 🔭 Current Focus
 
