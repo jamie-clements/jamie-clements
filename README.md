@@ -13,7 +13,6 @@ Computer Science student at the University of Stirling with a passion for AI/ML 
 
 - 🎓 Completing my BSc dissertation on Multi-Modal AI for Surgical Video Analysis
 - 🌱 Teaching next-gen developers as an Undergraduate Teaching Assistant
-- 💡 Exploring real-world applications of Google's Gemini Vision API
 - 🚀 Building scalable, AI-powered solutions
 
 ## 🛠️ Tech Stack
