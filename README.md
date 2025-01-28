@@ -15,6 +15,7 @@ Computer Science student at the University of Stirling with a passion for AI/ML 
 - 🌱 Teaching next-gen developers as an Undergraduate Teaching Assistant
 - 🚀 Building scalable, AI-powered solutions
 
+<!-- 
 ## 🛠️ Tech Stack
 
 ```mermaid
@@ -45,7 +46,7 @@ mindmap
       Git
       Linux
 ```
-
+-->
 ## 🏆 Recent Achievements
 
 - 🥇 JPMorgan Code For Good Hackathon Champion (2024)
