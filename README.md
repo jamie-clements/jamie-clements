@@ -11,8 +11,9 @@ Computer Science student at the University of Stirling with a passion for AI/ML 
 
 ## 🔭 Current Focus
 
-- 🎓 Completing my BSc dissertation on Multi-Modal AI for Surgical Video Analysis
-- 🌱 Teaching next-gen developers as an Undergraduate Teaching Assistant
+- 🎓 Completing my final year of BSc Computer Science
+- 🌱 Teaching and inspiring next-gen developers as an Undergraduate Teaching Assistant
+- 💻 Competing in hackathons throughout the UK
 - 🚀 Building scalable, software and AI-powered solutions
 
 <!-- 
