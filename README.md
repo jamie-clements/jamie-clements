@@ -80,8 +80,7 @@ mindmap
 ## 🤝 Let's Connect!
 
 I'm always excited to connect with fellow developers, researchers, and tech enthusiasts! Whether you're interested in:
-- Collaborating on innovative projects
-- Sharing ideas and knowledge
+- Start-ups
 - Discussing the latest in tech
 - Building something together
 
