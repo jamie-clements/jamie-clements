@@ -13,7 +13,7 @@ Computer Science student at the University of Stirling with a passion for AI/ML 
 
 - 🎓 Completing my final year of BSc Computer Science
 - 🌱 Teaching and inspiring next-gen developers as an Undergraduate Teaching Assistant
-- 💻 Competing and learning through competitive industry hackathons
+- 💻 Competing and learning through industry hackathons
 - 🚀 Building scalable, software and AI-powered solutions
 
 <!-- 
