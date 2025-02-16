@@ -49,8 +49,8 @@ mindmap
 -->
 ## 🏆 Recent Achievements
 
-- 🥇 JPMorgan Code For Good Hackathon Champion (2024)
-- 🦾 AtkinsRéalis HackAFuture Hackathon , 5th out of 20 teams (2025)
+- 🥇 JPMorgan Code For Good Hackathon Champion (1st of 10 teams)
+- 🦾 AtkinsRéalis HackAFuture Hackathon (5th out of 20 teams)
 - 💼 Technology Infrastructure Analyst at Citigroup
 
 <!-- 
