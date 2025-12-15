@@ -4,7 +4,7 @@
 
 ### 🧩 Research Focus
 
-My goal is to embed intelligent systems into the physical world to accelerate scientific discovery, with a specific interest in interpretability, reliability, and bio-inspired AI.
+My goal is to embed intelligent systems into the physical world to accelerate scientific discovery, with a specific interest in AI interpretability, reliability, and bio-inspired AI.
 
 ---
 
