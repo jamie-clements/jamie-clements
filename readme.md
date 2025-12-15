@@ -1,4 +1,4 @@
-👋 Hi, I’m Jamie. I'm currently based at the ***University of Edinburgh*** where I am work on **AI for Materials Discovery** in Electronics and **ML approaches for Pressure Sensing**.
+👋 Hi, I’m Jamie. I'm currently based at the ***University of Edinburgh*** where I am work on **AI for Materials Discovery** in Electronics and **ML approaches for Pressure Sensing (MedTech)**.
 
 ---
 
