@@ -1,4 +1,4 @@
-👋 Hi, I’m Jamie. I'm a computer scientist / AI builder, super interested in all things GenAI / ML, and embedding these paradigms to solve real-world problems.
+👋 Hi, I’m Jamie. I'm a computer scientist and AI builder. I explore all things GenAI & ML, focusing on integrating these technologies to solve real-world problems."
 
 ---
 
