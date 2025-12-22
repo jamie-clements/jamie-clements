@@ -1,10 +1,4 @@
-👋 Hi, I’m Jamie. I'm a computer scientist / researcher currently based at the **University of Edinburgh** working on **AI for Materials Discovery** in Electronics and **ML approaches for Pressure Sensing (MedTech)**.
-
----
-
-### 🧩 Research Focus
-
-My goal is to embed intelligent systems into the physical world to accelerate scientific discovery, with a specific interest in AI interpretability, reliability, and bio-inspired AI.
+👋 Hi, I’m Jamie. I'm a computer scientist / AI builder. I'm super interested in all things MLLMs / GenAI / ML.
 
 ---
 
