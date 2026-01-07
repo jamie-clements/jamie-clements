@@ -1,4 +1,4 @@
-👋 Hi, I’m Jamie. Welcome to my portfolio!
+👋 Hi, I’m Jamie. Welcome to my GitHub! 
 
 ---
 
